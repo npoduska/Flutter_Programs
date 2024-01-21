@@ -1,3 +1,4 @@
+//This is the main file you need in order to run a flutter program.
 import 'package:flutter/material.dart';
 import 'package:first_app/gradient_container.dart';
 
